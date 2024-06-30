@@ -12,10 +12,10 @@
       logo:  
       url: https://space.bilibili.com/390246410?spm_id_from=333.337.0.0
       description: 资源分享，详细图文教程。
-    - title: 小红书：童萌军分享
+    - title: 公众号：童萌军分享
       qrcode: 
       logo:   
-      url: https://www.xiaohongshu.com/user/profile/638409d9000000001f01cf6d?xhsshare=CopyLink&appuid=638409d9000000001f01cf6d&apptime=1719715262&share_id=bcce1fa57c7f414e96e09e14301c2b63
+      url: https://flowus.cn/ed62fb49-4a71-42f3-985c-74343e14dd04#993c7404-e01d-40e7-abad-ef3b921b2a2d
       description: 发送：往期相关资源。会有惊喜哦
     - title: 环球巴士
       qrcode: 
@@ -37,9 +37,9 @@
     - title: Telegram
       logo: 
       url: https://t.me/kjgxZY/
-      description: 科技共享资源频道
-    - title: Telegram群组
-      url: https://t.me/+qf_DtRZ90ys2ZDBl/
+      description:小红书：童萌军的分享
+    - title: 
+      url: https://www.xiaohongshu.com/user/profile/638409d9000000001f01cf6d?xhsshare=CopyLink&appuid=638409d9000000001f01cf6d&apptime=1719715262&share_id=bcce1fa57c7f414e96e09e14301c2b63
       description: 沟通交流，资源分享
     - title: 接码平台
       logo:  
@@ -74,6 +74,7 @@
       logo: 
       url: https://www.keke1.app/
       description: 拥有海量影视资源，涵盖了各大主流影视平台和影视网站的视频内容
+   
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
